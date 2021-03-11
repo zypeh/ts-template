@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "sourceRoot": "src",
+        "outDir": "dist",
+        "module": "esnext",
+        "preserveConstEnums": true,
+        "sourceMap": true
+    }
+}
